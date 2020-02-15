@@ -24,4 +24,16 @@
             "maintainer_url": "https://github.com/kmou424",
          }
 }
+		{
+	"name": "Sony Xperia XZ1",
+	"brand": "Sony",
+	"codename": "poplar",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
 ]
