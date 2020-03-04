@@ -23,11 +23,299 @@
             "maintainer_name": "kmou424",
             "maintainer_url": "https://github.com/kmou424",
          }
-}
+},
+		{
+	"name": "Sony Xperia XZ Premium DSDS",
+	"brand": "Sony",
+	"codename": "maple",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XZ Premium RoW",
+	"brand": "Sony",
+	"codename": "maple",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
 		{
 	"name": "Sony Xperia XZ1 DSDS",
 	"brand": "Sony",
 	"codename": "poplar",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XZ1 RoW",
+	"brand": "Sony",
+	"codename": "poplar",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XZ1 Compact RoW",
+	"brand": "Sony",
+	"codename": "lilac",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XZ2 DSDS",
+	"brand": "Sony",
+	"codename": "akari",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XZ2 RoW",
+	"brand": "Sony",
+	"codename": "akari",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XZ2 Compact DSDS",
+	"brand": "Sony",
+	"codename": "apollo",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XZ2 Compact RoW",
+	"brand": "Sony",
+	"codename": "apollo",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+				{
+	"name": "Sony Xperia XZ3 DSDS",
+	"brand": "Sony",
+	"codename": "akatsuki",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+				{
+	"name": "Sony Xperia XZ3 RoW",
+	"brand": "Sony",
+	"codename": "akatsuki",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+				{
+	"name": "Sony Xperia XA2 DSDS",
+	"brand": "Sony",
+	"codename": "pioneer",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+				{
+	"name": "Sony Xperia XA2 RoW",
+	"brand": "Sony",
+	"codename": "pioneer",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+				{
+	"name": "Sony Xperia XA2 Ultra DSDS",
+	"brand": "Sony",
+	"codename": "discovery",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XA2 Ultra RoW",
+	"brand": "Sony",
+	"codename": "discovery",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XA2 Plus DSDS",
+	"brand": "Sony",
+	"codename": "voyager",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia XA2 Plus RoW",
+	"brand": "Sony",
+	"codename": "voyager",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia 1 DSDS",
+	"brand": "Sony",
+	"codename": "griffin",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia 1 RoW",
+	"brand": "Sony",
+	"codename": "griffin",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia 5 DSDS",
+	"brand": "Sony",
+	"codename": "bahamut",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia 5 RoW",
+	"brand": "Sony",
+	"codename": "bahamut",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia 10 DSDS",
+	"brand": "Sony",
+	"codename": "kirin",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia 10 RoW",
+	"brand": "Sony",
+	"codename": "kirin",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia 10 Plus DSDS",
+	"brand": "Sony",
+	"codename": "mermaid",
+	"supported_versions": [
+         {
+            "version_code": "infinity-10",
+            "version_name": "1.0",
+            "maintainer_name": "yuexzhengbaizhi",
+            "maintainer_url": "https://github.com/yuexzhengbaizhi",
+         }
+},
+		{
+	"name": "Sony Xperia 10 Plus RoW",
+	"brand": "Sony",
+	"codename": "mermaid",
 	"supported_versions": [
          {
             "version_code": "infinity-10",
